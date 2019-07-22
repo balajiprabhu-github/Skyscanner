@@ -1,8 +1,10 @@
-package com.balajiprabhu.skyscanner;
+package com.balajiprabhu.skyscanner.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.balajiprabhu.skyscanner.R;
 
 public class MainActivity extends AppCompatActivity {
 
